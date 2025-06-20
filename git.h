@@ -56,7 +56,8 @@ GIT_VERSION_TRACKING_EXTERN_C_END
 #undef GIT_VERSION_TRACKING_EXTERN_C_BEGIN
 #undef GIT_VERSION_TRACKING_EXTERN_C_END
 
-#ifdef __cplusplus
+#if 0
+// #ifdef __cplusplus
 
 /// This is a utility extension for C++ projects.
 /// It provides a "git" namespace that wraps the
